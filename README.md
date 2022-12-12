@@ -13,7 +13,7 @@ Para acessar o deploy <a href="https://my-todo-iota.vercel.app/" target="_blank"
 ## 📌 Features
 - [x] Adicionar ToDo
 - [x] Listagem das ToDo's
-- [x] Editar ToDo(modal)
+- [x] Editar ToDo (modal)
 - [x] Deletar ToDo
 
 ## 🛠️ Tecnologias
